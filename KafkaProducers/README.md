@@ -17,7 +17,7 @@ Typical Requirements
 KafkaProducers has been developed using the following tools/apps:
 
 * [kafka] - Open Source Stream Processing Software platform (kafka-python)
-* [Python] - Pythong 3.8 
+* [Python] - Python 3.8 
 * [IntelliJ] - PyCharm
 
 ### Installation

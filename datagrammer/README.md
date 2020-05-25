@@ -8,7 +8,7 @@ Typical Requirements
   
 Datagrammer has been developed using the following tools/apps:
 
-* [Python] - Pythong 3.7 
+* [Python] - Python 3.7 
 * [IntelliJ] - PyCharm
 
 ### Installation
