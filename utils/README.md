@@ -11,7 +11,7 @@ Python Utils are the building blocks of a E2E Test framework running different t
 Python Utils has been developed using the following tools/apps:
 
 * [Python] - Python 2.7 
-*[Selenium] Chrome Webdriver
+* [Selenium] Chrome Webdriver
 * [IntelliJ] - PyCharm
 
 ### Installation
